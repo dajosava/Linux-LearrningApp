@@ -174,4 +174,4 @@ Bienvenido a la plataforma **Linux de 0 a Experto**, una guía completa para apr
 
 ---
 
-**¡Gracias por aprender con nosotros!**
+**¡Manakinlabs...Gracias por aprender con nosotros!**
